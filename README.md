@@ -1,8 +1,3 @@
-<div align="center">
-  <img height="150" src=""  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=aysecetin.aysecetin&"  />
