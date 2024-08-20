@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">I'm Ayşe 🌝<br>- 🔭 I’m management information systems student <br>- 📚 I'm currently learning Swift<br>- ⚡ In my free time I do yoga</p>
+<p align="left">I'm Ayşe 🌝<br>- 🔭 I’m management information systems student <br>- 📚 I'm currently learning Swift<br>- 🧘🏻‍♀️ In my free time I do yoga</p>
 
 ###
 
