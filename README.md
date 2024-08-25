@@ -48,7 +48,3 @@
 
 
 ###
-
-<img align="right" height="150" src="https://tenor.com/view/cat-typing-work-intense-gif-12272942865863817991"  />
-
-###
