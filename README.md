@@ -31,6 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 
 </div>
@@ -45,10 +46,9 @@
   <img src="https://streak-stats.demolab.com?user=aysecetin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/aysecetin/aysecetin/output/snake.svg" alt="Snake animation" />
+<img align="right" height="150" src="https://tenor.com/view/cat-typing-work-intense-gif-12272942865863817991"  />
 
 ###
