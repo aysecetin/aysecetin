@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Ayşe 🌝🌝 <br> 🔭 I’m management information systems student <br> 📚 I'm currently learning Swift<br> 💻 I'm currently interest in iOS mobile development and GIS </p>
+<p align="left">I'm Ayşe 🌝🌝🌝 <br> 🔭 I’m management information systems student <br> 📚 I'm currently learning Swift<br> 💻 I'm currently interest in iOS mobile development and GIS </p>
 
 ###
 
