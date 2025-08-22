@@ -53,12 +53,14 @@
 </div>
 
 ###
+<!-- Light -->
+<img src="https://raw.githubusercontent.com/aysecetin/aysecetin/output/pacman-contribution-graph.svg#gh-light-mode-only"
+     width="%100" alt="Pac-Man graph (light)" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+<!-- Dark -->
+<img src="https://raw.githubusercontent.com/aysecetin/aysecetin/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only"
+     width="%100" alt="Pac-Man graph (dark)" />
+
 
 
 ###
