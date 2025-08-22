@@ -48,7 +48,7 @@
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=aysecetin&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="350" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=aysecetin&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="550" alt="streak graph"  />
 </div>
 
 
