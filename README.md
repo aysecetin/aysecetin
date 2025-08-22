@@ -44,15 +44,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" />
   <img width="12" />
 
-  <!-- Draw.io -->
-  <img src="https://www.vectorlogo.zone/logos/diagramsnet/diagramsnet-icon.svg" height="40" alt="drawio logo" />
-  <img width="12" />
+<!-- Draw.io / diagrams.net -->
+<img src="https://www.vectorlogo.zone/logos/diagramsnet/diagramsnet-icon.svg" height="40" alt="drawio logo" />
+<img width="12" />
 
-  <!-- Cursor -->
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="40" alt="cursor logo" />
-  <img width="12" />
+<!-- Cursor (GitHub org avatar’ı genelde çalışır) -->
+<img src="https://avatars.githubusercontent.com/u/139895814?s=200" height="40" alt="cursor logo" />
+<img width="12" />
 
-  <!-- Termius -->
-  <img src="https://seeklogo.com/images/T/termius-logo-DAF21A3061-seeklogo.com.png" height="40" alt="termius logo" />
+<!-- Termius (PNG) -->
+<img src="https://seeklogo.com/images/T/termius-logo-DAF21A3061-seeklogo.com.png" height="40" alt="termius logo" />
+<img width="12" />
 </div>
 
