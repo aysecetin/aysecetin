@@ -48,7 +48,7 @@
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=aysecetin&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" height="250" width="1500" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=aysecetin&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="250" width="1500" alt="streak graph"  />
 </div>
 
 
