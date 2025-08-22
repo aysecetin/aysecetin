@@ -49,18 +49,8 @@
 ### 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=aysecetin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="250" width="1500" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=aysecetin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="250" width="%100" alt="streak graph"  />
 </div>
-
-###
-<!-- Light -->
-<img src="https://raw.githubusercontent.com/aysecetin/aysecetin/output/pacman-contribution-graph.svg#gh-light-mode-only"
-     width="%100" alt="Pac-Man graph (light)" />
-
-<!-- Dark -->
-<img src="https://raw.githubusercontent.com/aysecetin/aysecetin/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only"
-     width="%100" alt="Pac-Man graph (dark)" />
-
 
 
 ###
