@@ -1,14 +1,12 @@
 name: Generate pacman animation
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
+    # Her 12 saatte bir (UTC 00:00–00:59 ve 12:00–12:59 aralığında her dakika)
     - cron: "* */12 * * *"
-
   workflow_dispatch:
-
   push:
-    branches:
-    - main
+    branches: [ main ]
 
 jobs:
   generate:
@@ -18,14 +16,18 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate pacman-contribution-graph.svg
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate pacman SVG(s)
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: aysecetin
+          # Bazı sürümlerde default olarak dist/ içine yazar.
+          # Eğer başka yere yazıyorsa (örn. outputDir) parametresi varsa "dist" yap.
 
-
-      - name: push pacman-contribution-graph.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push dist/ to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
