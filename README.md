@@ -10,15 +10,11 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">👩‍💻 Hi I'm Ayşe</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Ayşe <br><br>- 🔭 I’m management information systems student <br>- 📚 I'm currently learning llms<br>- ⚡ In my free time I study english </p>
+<p align="left"><br>- 🔭 I’m management information systems student <br>- 📚 I'm currently learning llms<br>- ⚡ In my free time I study english </p>
 
 ###
 
