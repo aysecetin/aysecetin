@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left"><br>- 🔭 I’m management information systems student <br>- 📚 I'm currently learning llms<br>- ⚡ 
+<p align="left"><br>- 🔭 I’m graduated at management information systems <br>- 📚 I'm currently learning llms<br>- ⚡ 
 I do research in my free time </p>
 
 ###
